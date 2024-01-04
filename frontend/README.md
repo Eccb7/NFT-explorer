@@ -77,7 +77,7 @@ Navigate to the[docs](https://docs.alchemy.com/docs/create-web3-dapp) to learn m
 
 1. Inside the project folder, start the local development server:
    ```
-   yarn run dev
+   npm run dev
    ```
 2. Open your browser and navigate to [`http://localhost:3000/`](http://localhost:3000/) to view the dApp in action.
 
@@ -116,5 +116,3 @@ The boilerplate consists of two main directories:
  ┣ 📜package-lock.json
  ┗ 📜package.json
 ```
-
-Start editing the `pages/index.jsx` file in the `frontend` directory to customize the project according to your own needs!
